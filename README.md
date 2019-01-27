@@ -20,3 +20,8 @@ Este comando hace uso de `npm-run-all` que ejecuta el servidor y el cliente al m
 ## Dudas
 
 Cualquier duda que tengáis sobre la plantilla o el proyecto la podéis resolver en los foros. Estaré encantado de ayudarte a completar la práctica.
+
+## Créditos
+
+* Fotografía de la carátula de los álbums por [James Owen](https://unsplash.com/photos/c-NBiJrhwdM)
+* Audio compuesto por [Kevin MacLeod](https://twitter.com/kmacleod)
